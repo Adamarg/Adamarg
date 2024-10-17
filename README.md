@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adamarg
-- 👀 I’m interested in security on IoT
+- 👀 I’m interested in embedded systems and IoT
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me : madamantios@gmail.com
 
 <!---
